@@ -37,20 +37,16 @@ Before you begin, ensure you have met the following requirements:
 
 # Set Up the Environment
 1. Create a virtual environment:
-
-  ![image](https://github.com/user-attachments/assets/9d9207f7-bdfe-477c-aca0-aef061af3014)
+![image](https://github.com/user-attachments/assets/9d9207f7-bdfe-477c-aca0-aef061af3014)
 
 3. Activate the virtual environment:
 - On Windows:
-
-  ![image](https://github.com/user-attachments/assets/490a02af-125a-435d-8e91-58b8ed143e37)
+![image](https://github.com/user-attachments/assets/490a02af-125a-435d-8e91-58b8ed143e37)
 
 - On macOS/Linux:
-
-  ![image](https://github.com/user-attachments/assets/3cca524f-b6cf-4cfb-8835-b07efa5182ee)
+ ![image](https://github.com/user-attachments/assets/3cca524f-b6cf-4cfb-8835-b07efa5182ee)
 
 3. Install the required packages:
-
   ![image](https://github.com/user-attachments/assets/9250e525-7b8f-4d6a-b9f0-f3e568d3df15)
 
 # Running the Dockerized PostgreSQL Database
