@@ -64,6 +64,7 @@ Airflow webserver will be available on http://localhost:8080.
 - Once logged in to Airflow, trigger the ETL DAG manually or wait for it to run as per the schedule.
 
 # Project Structure
+![image](https://github.com/user-attachments/assets/eddd0a3a-20be-43b1-b4fc-527d60f2805a)
 
 COVID19-Data-ETL-Dashboard/
 │
