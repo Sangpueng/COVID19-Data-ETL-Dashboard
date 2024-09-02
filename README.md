@@ -33,12 +33,10 @@ Before you begin, ensure you have met the following requirements:
 
 # Clone the Repository
 - Clone this repository to your local machine using Git:  
-
   ![image](https://github.com/user-attachments/assets/29a323c1-4967-4f1a-a633-c8cf7d9c9f0a)
 
 # Set Up the Environment
 1. Create a virtual environment:
-
   ![image](https://github.com/user-attachments/assets/9d9207f7-bdfe-477c-aca0-aef061af3014)
 
 2. Activate the virtual environment:
