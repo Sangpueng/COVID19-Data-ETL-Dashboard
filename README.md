@@ -51,10 +51,9 @@ Before you begin, ensure you have met the following requirements:
 
 # Running the Dockerized PostgreSQL Database
 1. Build and run the Docker containers:
+![image](https://github.com/user-attachments/assets/a132c3b9-63d9-4fec-9cf7-09cc34f74bda)
 
-  ![image](https://github.com/user-attachments/assets/a132c3b9-63d9-4fec-9cf7-09cc34f74bda)
-
-2. Check if PostgreSQL and other services are running correctly:
+3. Check if PostgreSQL and other services are running correctly:
 - PostgreSQL will run on port 5432.
 - Airflow webserver will be available on http://localhost:8080.
 
