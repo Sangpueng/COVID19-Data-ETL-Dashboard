@@ -78,8 +78,7 @@ The ETL pipeline extracts COVID-19 case data, transforms it by applying a 7-day 
 
 # Usage
 1. Start the Dash application:
-
-  ![image](https://github.com/user-attachments/assets/3aa02e25-0aae-48a5-8b1c-93b10fefb771)
+![image](https://github.com/user-attachments/assets/3aa02e25-0aae-48a5-8b1c-93b10fefb771)
 
 2. Access the dashboard:
 - Navigate to http://localhost:8050 or http://127.0.0.1:8050/ in your web browser.
