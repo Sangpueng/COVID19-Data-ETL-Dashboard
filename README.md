@@ -1,5 +1,5 @@
 # COVID19-Data-ETL-Dashboard
-End-to-end ETL pipeline and COVID-19 dashboard project
+End-to-end ETL pipeline and COVID-19 dashboard project using Apache Airflow, Docker, and Python Dash
 
 # Project Overview
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline and the creation of an interactive dashboard to visualize COVID-19 case data. The project leverages Docker for managing the database environment, Apache Airflow for scheduling and orchestrating ETL tasks, and Python's Dash framework for data visualization.
