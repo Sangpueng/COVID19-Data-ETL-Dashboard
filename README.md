@@ -10,9 +10,8 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 - Installation
 - Project Structure
 - ETL Process
-- Dashboard
 - Usage
-- Screenshots
+- Dashboard
 - Contributing
 - License
 
@@ -83,27 +82,24 @@ The ETL pipeline extracts COVID-19 case data, transforms it by applying a 7-day 
 # Load
 - The transformed data is loaded into a SQLite database for efficient querying and visualization in the Dash application.
 
-# Dashboard
-The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 cases across different countries over time. The dashboard features:
-
-- A dropdown menu to select countries/regions.
-- A 7-day rolling average to smooth the data trends.
-- An interactive date range slider.
-
 # Usage
 1. Start the Dash application:
 
 ![image](https://github.com/user-attachments/assets/3aa02e25-0aae-48a5-8b1c-93b10fefb771)
 
 2. Access the dashboard:
-
 - Navigate to http://localhost:8050 or http://127.0.0.1:8050/ in your web browser.
 
 3. Interact with the dashboard:
 - Select countries/regions from the dropdown.
-- Adjust the date range using the slider to focus on specific periods. 
-
+- Adjust the date range using the slider to focus on specific periods.
+- 
 # Dashboard
+The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 cases across different countries over time. The dashboard features:
+
+- A dropdown menu to select countries/regions.
+- A 7-day rolling average to smooth the data trends.
+- An interactive date range slider.
 
 ![image](https://github.com/user-attachments/assets/63368452-b1c0-45f1-9afd-bdb8799baaaf)
 
