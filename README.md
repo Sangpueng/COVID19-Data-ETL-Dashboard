@@ -105,6 +105,7 @@ The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 ca
 
 # Screenshots
 
+![image](https://github.com/user-attachments/assets/79a99078-6358-474f-961c-0e7a056f9152)
 
 # Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
