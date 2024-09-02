@@ -93,11 +93,11 @@ The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 ca
 # Usage
 1. Start the Dash application:
 
-python covid_dashboard.py
+![image](https://github.com/user-attachments/assets/3aa02e25-0aae-48a5-8b1c-93b10fefb771)
 
 2. Access the dashboard:
 
-- Navigate to http://localhost:8050 in your web browser.
+- Navigate to http://localhost:8050 or http://127.0.0.1:8050/ in your web browser.
 
 3. Interact with the dashboard:
 - Select countries/regions from the dropdown.
