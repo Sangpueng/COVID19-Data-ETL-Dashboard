@@ -103,7 +103,7 @@ The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 ca
 - Select countries/regions from the dropdown.
 - Adjust the date range using the slider to focus on specific periods. 
 
-# Screenshots
+# Dashboard
 
 ![image](https://github.com/user-attachments/assets/79a99078-6358-474f-961c-0e7a056f9152)
 
