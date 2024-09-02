@@ -66,16 +66,6 @@ Airflow webserver will be available on http://localhost:8080.
 # Project Structure
 ![image](https://github.com/user-attachments/assets/eddd0a3a-20be-43b1-b4fc-527d60f2805a)
 
-COVID19-Data-ETL-Dashboard/
-│
-├── README.md                # Project documentation
-├── Dockerfile               # Dockerfile to build the container
-├── docker-compose.yml       # Docker Compose file for setting up services
-├── requirements.txt         # Python dependencies
-├── covid_dashboard.py       # Main Dash application
-└── data/
-    └── healthcare_data.db   # SQLite database file (output from ETL)
-    
 # ETL Process
 The ETL pipeline extracts COVID-19 case data, transforms it by applying a 7-day rolling average, and loads it into a SQLite database. The process is automated and scheduled using Apache Airflow.
 
