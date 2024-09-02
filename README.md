@@ -86,7 +86,7 @@ The ETL pipeline extracts COVID-19 case data, transforms it by applying a 7-day 
 3. Interact with the dashboard:
 - Select countries/regions from the dropdown.
 - Adjust the date range using the slider to focus on specific periods.
-- 
+
 # Dashboard
 The COVID-19 dashboard is built using Python Dash and visualizes the COVID-19 cases across different countries over time. The dashboard features:
 - A dropdown menu to select countries/regions.
