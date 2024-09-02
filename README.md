@@ -33,25 +33,31 @@ Before you begin, ensure you have met the following requirements:
 - A GitHub account.
 
 # Clone the Repository
-- Clone this repository to your local machine using Git:
+- Clone this repository to your local machine using Git:  
+
 ![image](https://github.com/user-attachments/assets/29a323c1-4967-4f1a-a633-c8cf7d9c9f0a)
 
 # Set Up the Environment
 1. Create a virtual environment:
+
 ![image](https://github.com/user-attachments/assets/9d9207f7-bdfe-477c-aca0-aef061af3014)
 
 2. Activate the virtual environment:
 - On Windows:
+
 ![image](https://github.com/user-attachments/assets/490a02af-125a-435d-8e91-58b8ed143e37)
 
 - On macOS/Linux:
+
 ![image](https://github.com/user-attachments/assets/3cca524f-b6cf-4cfb-8835-b07efa5182ee)
 
 3. Install the required packages:
+
 ![image](https://github.com/user-attachments/assets/9250e525-7b8f-4d6a-b9f0-f3e568d3df15)
 
 # Running the Dockerized PostgreSQL Database
 1. Build and run the Docker containers:
+
 ![image](https://github.com/user-attachments/assets/a132c3b9-63d9-4fec-9cf7-09cc34f74bda)
 
 2. Check if PostgreSQL and other services are running correctly:
