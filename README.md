@@ -37,9 +37,10 @@ Before you begin, ensure you have met the following requirements:
 
 # Set Up the Environment
 1. Create a virtual environment:
+
   ![image](https://github.com/user-attachments/assets/9d9207f7-bdfe-477c-aca0-aef061af3014)
 
-2. Activate the virtual environment:
+3. Activate the virtual environment:
 - On Windows:
 
   ![image](https://github.com/user-attachments/assets/490a02af-125a-435d-8e91-58b8ed143e37)
